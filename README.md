@@ -121,4 +121,3 @@ to troubleshoot errors.
 rotations of content for customers'​ buys on the client's platform (VOD
 Factory) and editorial folder rotations on a weekly basis (Maroc-Tel and
 Melita).
-# CV
