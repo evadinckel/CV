@@ -72,30 +72,25 @@ platforms:
 
 - Vevo operations:
 Reception, quality assurance and management of source files &
-metadata requiring high attention to detail & flexibility in working
-to tight & oftentimes impromptu deadlines.
-Ingestion of various content upon manual upload requests including
-both Vevo original content and that of external content providers.
-Delivery of embed codes for video exclusives for various partners
-(Syndication Premiere Operations).
-Management of split rights & territories attribution data.
+metadata requiring high attention to detail & flexibility in working to tight & oftentimes impromptu deadlines.<br>
+Ingestion of various content upon manual upload requests including both Vevo original content and that of external content providers.<br>
+Delivery of embed codes for video exclusives for various partners(Syndication Premiere Operations).<br>
+Management of split rights & territories attribution data.<br>
 Management of US, UK, and European premieres & promoted
-content for Vevo’s feed & mobile & TV apps.
+content for Vevo’s feed & mobile & TV apps.<br>
 Working closely with US content operations & editorial and
 programming teams to ensure all of the above is delivered to
-stringent deadlines set by both US & European clients.
-Product and Engineering:
-Reporting to & liaising with Engineering Department to eradicate
-errors quickly so as to comply with delivery deadlines (e.g. troubleshooting on encoding issues, syndication, APIs, CMS functionalities...).
-Liaising with Product Manager on sprint planning efforts and product roadmaps.
+stringent deadlines set by both US & European clients.<br>
+Product and Engineering:<br>
+Reporting to & liaising with Engineering Department to eradicate errors quickly so as to comply with delivery deadlines (e.g. troubleshooting on encoding issues, syndication, APIs, CMS functionalities...).<br>
+Liaising with Product Manager on sprint planning efforts and product roadmaps.<br>
 
 - YouTube operations:
 YouTube channel creation, management & updates (of artwork,
 playlists, material & content) per partner requests using YouTube CMS.
 
 
-- Scheduling face to face meetings with content partners to maintain, solidify and
-develop relationships (and partners on-boarding processes).
+- Scheduling face to face meetings with content partners to maintain, solidify and develop relationships (and partners on-boarding processes).<br>
 
 
 **Vubiquity** (Aug 2012 to Nov 2014)   
