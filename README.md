@@ -64,7 +64,7 @@ First Year of Master's Degree in Media Studies (Film and Television)
 
 ## Work Experience
 
-**Vevo** (Nov 2014 to Oct 2017)    
+**Vevo** (Nov 2014 - Oct 2017)    
 *Senior Content Ops Specialist*  
 
 Coordination of all non-US video operations on both Vevo & YouTube
@@ -93,7 +93,7 @@ playlists, material & content) per partner requests using YouTube CMS.
 - Scheduling face to face meetings with content partners to maintain, solidify and develop relationships (and partners on-boarding processes).<br>
 
 
-**Vubiquity** (Aug 2012 to Nov 2014)   
+**Vubiquity** (Aug 2012 - Nov 2014)   
 *Service Delivery Coordinator*  
 
 Responsible for end to end workflow, metadata and video content
