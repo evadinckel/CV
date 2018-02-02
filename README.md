@@ -28,6 +28,7 @@ Rock-Paper-Scissors| Makers Academy weekend challenge. This application does thi
 
 
 **Side projects**
+
 I also keep on improving my technical skills through side projects and tutorials; I am practicing on the below on my spare time:
 
 Project      | Description                | Technologies | Link
@@ -39,7 +40,7 @@ Mobile app| First approach to mobile development. The app does ..... | React Nat
 
 #### Collaborative/Communication skills
 
-- Studying at Makers Academy has been the opportunity to apply my communication skills acquired through the years, notably through pair-programming, but also during the final 2-week project of the course, as our team had embraced the values of Extreme Programming to optimize the collaboration of each team member on the project.
+- Studying at Makers Academy has been the opportunity to apply my communication skills acquired through the years, notably through pair-programming, but also during the final 2-week project of the course, as our team had embraced the values of Extreme Programming to optimize the collaboration between each team member.
 
  - My partner-facing role at vevo (2014-2017) has also been the opportunity to be instrumental to the success of the company's operations by being at the crossroads between our music partners and our engineering teams, providing technical support and maintaining quality business relationships.
 
@@ -118,6 +119,6 @@ In conjunction with coding, I also cultivate a growing interest in the below:
 
 
 ### Hobbies
-Vegan junk food
-Yoga <3
+Vegan junk food</br>
+Yoga <3</br>
 Languages and all forms of Art
