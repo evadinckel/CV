@@ -82,7 +82,7 @@ company’s content management system (VZ) in a timely manner
 
 ## Education
 
-##### Makers Academy (2017 - 2018)
+#### Makers Academy (2017 - 2018)
 16-week web development bootcamp with a focus on the concepts/technologies below:
 
 - Best practices:
@@ -93,10 +93,10 @@ TDD approach (Unit + Feature tests), with use of various testing frameworks such
 - Project Management: Agile approach and XP values
 
 
-##### Swansea University (2010 - 2011)
+#### Swansea University (2010 - 2011)
 First Year of Master's Degree in Media Studies (Film and Television) (EU Erasmus Exchange Program)
 
-##### University of Western Brittany (UBO), Brest and Quimper, Fr (2008 - 2010)
+#### University of Western Brittany (UBO), Brest and Quimper, Fr (2008 - 2010)
 2nd & 3rd year of Undergraduate Degree in English Language (LLCE Anglais)
 
 
