@@ -21,8 +21,8 @@ Below are a few of the projects I have worked on/been involved in throughout the
 
 Project      | Description                | Technologies | Link
 ------------ | -------------------------- | ------------ |---------
-Notes app| Two-week post-graduate project| Ruby? | GitHub link
-MemoMap | Two-week final project at Makers Academy | MERN stack | GitHub link
+Facilities-App| Two-week post-graduate project| REACT | GitHub link
+MemoMap | Two-week final project at Makers Academy | REACT - MERN stack | GitHub link
 Bank App| Tech Test practice. This application does this... | Ruby | GitHub link
 Rock-Paper-Scissors| Makers Academy weekend challenge. This application does this....  | Ruby/ HTML + CSS | GitHub link
 
