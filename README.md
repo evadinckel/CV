@@ -21,10 +21,10 @@ Below are a few of the projects I have worked on/been involved in throughout the
 
 Project      | Description                | Technologies | Link
 ------------ | -------------------------- | ------------ |---------
-Facilities-App| Two-week post-graduate project| REACT | GitHub link
-MemoMap | Two-week final project at Makers Academy | REACT - MERN stack | GitHub link
-Bank App| Tech Test practice. This application does this... | Ruby | GitHub link
-Rock-Paper-Scissors| Makers Academy weekend challenge. This application does this....  | Ruby/ HTML + CSS | GitHub link
+Facilities-App| Two-week post-graduate project| REACT | https://github.com/evadinckel/Facilities-App
+MemoMap | Two-week final project at Makers Academy | REACT - MERN stack | https://github.com/evadinckel/memomap
+Bank App| Tech Test practice. This application does this... | Ruby | https://github.com/evadinckel/week10-tech-tests---Bank-App--
+Rock-Paper-Scissors| Makers Academy weekend challenge. This application does this... | Ruby/ HTML + CSS | https://github.com/evadinckel/rps-challenge
 
 
 **Side projects**
