@@ -13,7 +13,7 @@ I am now looking for a company that will give me the opportunity to thrive as a 
 #### Full-stack web development
 
 
-Proficient in the use of various tech stacks and languages taught at Makers Academy, a 12-week computer programming bootcamp (<see Education>).
+Proficient in the use of various tech stacks and languages taught at Makers Academy, a 12-week computer programming bootcamp (see Education)(#education).
 Below are a few of the projects I have worked on/been involved in throughout the course:
 
 
