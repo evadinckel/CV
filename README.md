@@ -1,6 +1,6 @@
 # Eva Dinckel
 
-[Skills]  |  [Work Experience]  |  [Education]  |  [Other interests]  |  [Hobbies]
+[Skills](# Skills)  |  [Work Experience](# Work Experience)  |  [Education](# Education)  |  [Other interests](# Interests)  |  [Hobbies](# Hobbies)
 
 
 I have taken on various jobs in media and digital services before applying to Makers Academy as my next career move.
