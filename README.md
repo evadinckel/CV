@@ -1,6 +1,6 @@
 # Eva Dinckel
 
-[Skills](#skills)  |  [Work Experience](# Work Experience) |  [Education](# Education)  |  [Other interests](# Interests)  |  [Hobbies](# Hobbies)
+[Skills](#skills)  |  [Work Experience](#work_experience) |  [Education](#education)  |  [Other interests](#interests)  |  [Hobbies](#hobbies)
 
 
 I have taken on various jobs in media and digital services before applying to Makers Academy as my next career move.
@@ -47,7 +47,7 @@ Mobile app| First approach to mobile development. | React Native | In Progress
 - You will also see me at various meetups and events around London: it's always great to meet new people in the industry over a drink and make new contacts in the community!
 
 
-
+<a name="work_experience"></a>
 ## Work Experience
 
 **Vevo** (Nov 2014 - Oct 2017)    
@@ -79,7 +79,7 @@ project management software (Jira)
 company’s content management system (VZ) in a timely manner
 
 
-
+<a name="education"></a>
 ## Education
 
 #### Makers Academy (2017 - 2018)
@@ -107,7 +107,7 @@ First Year of Master's Degree in Media Studies (Film and Television) (EU Erasmus
 - Various short courses in London : (London Academy of IT (2017):responsive design / General Assembly (2018):Introduction to UX Design)
 
 
-
+<a name="interests"></a>
 ### Interests
 
 In conjunction with coding, I also cultivate a growing interest in the below:
@@ -117,7 +117,7 @@ In conjunction with coding, I also cultivate a growing interest in the below:
 - I also try to explore programming languages that are new to me whenever possible
 
 
-
+<a name="hobbies"></a>
 ### Hobbies
 Vegan junk food</br>
 Yoga <3</br>
