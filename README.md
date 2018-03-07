@@ -1,13 +1,13 @@
 # Eva Dinckel
 
-[Skills] {#Skills}  |  [Work Experience](# Work Experience) |  [Education](# Education)  |  [Other interests](# Interests)  |  [Hobbies](# Hobbies)
+[Skills](#skills)  |  [Work Experience](# Work Experience) |  [Education](# Education)  |  [Other interests](# Interests)  |  [Hobbies](# Hobbies)
 
 
 I have taken on various jobs in media and digital services before applying to Makers Academy as my next career move.
 I am now looking for a company that will give me the opportunity to thrive as a junior web developer.
 
 
-
+<a name="skills"></a>
 ## Skills
 
 #### Full-stack web development
@@ -23,8 +23,8 @@ Project      | Description                | Technologies | Link
 ------------ | -------------------------- | ------------ |---------
 Facilities-App| Two-week post-graduate project using React and its frameworks| REACT Js| https://github.com/evadinckel/Facilities-App
 MemoMap | Two-week final project at Makers Academy | REACT - MERN stack | https://github.com/evadinckel/memomap
-Bank App| Tech Test practice. This application is a  | Ruby | https://github.com/evadinckel/week10-tech-tests---Bank-App--
-Rock-Paper-Scissors| Makers Academy weekend challenge. Rock-Paper-Scissors game  | Ruby/ HTML + CSS | https://github.com/evadinckel/rps-challenge
+Bank App| Tech Test practice of a small Bank application | Ruby | https://github.com/evadinckel/week10-tech-tests---Bank-App--
+Rock-Paper-Scissors| Makers Academy weekend challenge based on the Rock-Paper-Scissors game  | Ruby/ HTML + CSS | https://github.com/evadinckel/rps-challenge
 
 
 **Side projects**
