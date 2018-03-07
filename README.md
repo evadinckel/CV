@@ -1,6 +1,6 @@
 # Eva Dinckel
 
-[Skills](# Skills)  |  [Work Experience](# Work Experience)  |  [Education](# Education)  |  [Other interests](# Interests)  |  [Hobbies](# Hobbies)
+[Skills] {#Skills}  |  [Work Experience](# Work Experience) |  [Education](# Education)  |  [Other interests](# Interests)  |  [Hobbies](# Hobbies)
 
 
 I have taken on various jobs in media and digital services before applying to Makers Academy as my next career move.
@@ -21,10 +21,10 @@ Below are a few of the projects I have worked on/been involved in throughout the
 
 Project      | Description                | Technologies | Link
 ------------ | -------------------------- | ------------ |---------
-Facilities-App| Two-week post-graduate project| REACT Js| https://github.com/evadinckel/Facilities-App
+Facilities-App| Two-week post-graduate project using React and its frameworks| REACT Js| https://github.com/evadinckel/Facilities-App
 MemoMap | Two-week final project at Makers Academy | REACT - MERN stack | https://github.com/evadinckel/memomap
-Bank App| Tech Test practice. This application does this... | Ruby | https://github.com/evadinckel/week10-tech-tests---Bank-App--
-Rock-Paper-Scissors| Makers Academy weekend challenge. This application does this... | Ruby/ HTML + CSS | https://github.com/evadinckel/rps-challenge
+Bank App| Tech Test practice. This application is a  | Ruby | https://github.com/evadinckel/week10-tech-tests---Bank-App--
+Rock-Paper-Scissors| Makers Academy weekend challenge. Rock-Paper-Scissors game  | Ruby/ HTML + CSS | https://github.com/evadinckel/rps-challenge
 
 
 **Side projects**
@@ -33,8 +33,8 @@ I also keep on improving my technical skills through side projects and tutorials
 
 Project      | Description                | Technologies | Link
 ------------ | -------------------------- | ------------ |---------
-Python Game| I have followed an online tutorial for this project, an introduction to how to build a game | Python | GitHub link
-Mobile app| First approach to mobile development. The app does ..... | React Native | GitHub link
+Python Game| I have followed an online tutorial for this project, an introduction to how to build a game | Python | In Progress
+Mobile app| First approach to mobile development. | React Native | In Progress
 
 
 
@@ -86,7 +86,7 @@ company’s content management system (VZ) in a timely manner
 16-week web development bootcamp with a focus on the concepts/technologies below:
 
 - Best practices:
-TDD approach (Unit + Feature tests), with use of various testing frameworks such as: RSpec, Jasmine...
+  TDD approach (Unit + Feature tests), with use of various testing frameworks such as: RSpec, Jasmine...
 - OOP (such as Ruby), Ruby on Rails, JavaScript / MVC architecture
 - Collaboration: pair-programming / 2-week team final project
 - Styling/Front-end: HTML/CSS
