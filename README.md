@@ -14,7 +14,7 @@ I am now looking for a company that will give me the opportunity to thrive as a 
 
 
 Proficient in the use of various tech stacks and languages taught at Makers Academy, a 12-week computer programming bootcamp.
-Below are a few of the projects I have worked on/been involved in throughout the course:
+Below are a few of the projects I have worked on/been involved in throughout and after the course:
 
 
 **At Makers Academy**
@@ -25,16 +25,6 @@ Facilities-App| Two-week post-graduate project using React and its frameworks| R
 MemoMap | Two-week final project at Makers Academy | REACT - MERN stack | https://github.com/evadinckel/memomap
 Bank App| Tech Test practice of a small Bank application | Ruby | https://github.com/evadinckel/week10-tech-tests---Bank-App--
 Rock-Paper-Scissors| Makers Academy weekend challenge based on the Rock-Paper-Scissors game  | Ruby/ HTML + CSS | https://github.com/evadinckel/rps-challenge
-
-
-**Side projects**
-
-I also keep on improving my technical skills through side projects and tutorials; I am practicing on the below on my spare time:
-
-Project      | Description                | Technologies | Link
------------- | -------------------------- | ------------ |---------
-Python Game| I have followed an online tutorial for this project, an introduction to how to build a game | Python | In Progress
-Mobile app| First approach to mobile development. | React Native | In Progress
 
 
 
