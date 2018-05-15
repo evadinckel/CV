@@ -111,4 +111,4 @@ In conjunction with coding, I also cultivate a growing interest in the below:
 ### Hobbies
 Vegan junk food</br>
 Yoga <3</br>
-Languages and all forms of Art
+Languages, all forms of Art, travel...
