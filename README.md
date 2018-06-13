@@ -4,11 +4,21 @@
 
 
 I have taken on various jobs in media and digital services before applying to Makers Academy as my next career move.
-I am now looking for a company that will give me the opportunity to thrive as a junior web developer.
+I am currently looking for opportunities in Product Management.
 
 
 <a name="skills"></a>
 ## Skills
+
+
+#### Collaborative/Communication skills
+
+- Studying at Makers Academy has been the opportunity to apply my communication skills acquired through the years, notably through pair-programming, but also during the final 2-week project of the course, as our team had embraced the values of Extreme Programming to optimize the collaboration between each team member.
+
+ - My partner-facing role at vevo (2014-2017) has also been the opportunity to be instrumental to the success of the company's operations by being at the crossroads between our music partners and our engineering teams, providing technical support and maintaining quality business relationships.
+
+- You will also see me at various meetups and events around London: it's always great to meet new people in the industry over a drink and make new contacts in the community!
+
 
 #### Full-stack web development
 
@@ -26,15 +36,6 @@ MemoMap | Two-week final project at Makers Academy | REACT - MERN stack | https:
 Bank App| Tech Test practice of a small Bank application | Ruby | https://github.com/evadinckel/week10-tech-tests---Bank-App--
 Rock-Paper-Scissors| Makers Academy weekend challenge based on the Rock-Paper-Scissors game  | Ruby/ HTML + CSS | https://github.com/evadinckel/rps-challenge
 
-
-
-#### Collaborative/Communication skills
-
-- Studying at Makers Academy has been the opportunity to apply my communication skills acquired through the years, notably through pair-programming, but also during the final 2-week project of the course, as our team had embraced the values of Extreme Programming to optimize the collaboration between each team member.
-
- - My partner-facing role at vevo (2014-2017) has also been the opportunity to be instrumental to the success of the company's operations by being at the crossroads between our music partners and our engineering teams, providing technical support and maintaining quality business relationships.
-
-- You will also see me at various meetups and events around London: it's always great to meet new people in the industry over a drink and make new contacts in the community!
 
 
 <a name="work_experience"></a>
