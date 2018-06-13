@@ -10,12 +10,12 @@ Graduating from a web development bootcamp has been a great asset in my understa
 <a name="skills"></a>
 ## Skills/Technologies
 
-● Agile Methodology / Product Management
-● Jira / Git-Github / Ruby / HTML-CSS / JavaScript, React
-● YouTube CMS / ZenDesk / ScheduAll / Subtitle Edit
-● London Academy of IT (2017): Responsive design and General Assembly (2018):
+- Agile Methodology / Product Management
+- Jira / Git-Github / Ruby / HTML-CSS / JavaScript, React
+- YouTube CMS / ZenDesk / ScheduAll / Subtitle Edit
+- London Academy of IT (2017): Responsive design and General Assembly (2018):
 Introduction to UX Design
-● French - Native; English - Fluent; Spanish - Advanced
+- French - Native; English - Fluent; Spanish - Advanced
 
 
 #### Collaborative/Communication skills
