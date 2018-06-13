@@ -4,11 +4,18 @@
 
 
 I have taken on various jobs in media and digital services before applying to Makers Academy as my next career move.
-I am currently looking for opportunities in Product Management.
+Graduating from a web development bootcamp has been a great asset in my understanding of product development; I am currently looking for opportunities in Product Management.
 
 
 <a name="skills"></a>
-## Skills
+## Skills/Technologies
+
+● Agile Methodology / Product Management
+● Jira / Git-Github / Ruby / HTML-CSS / JavaScript, React
+● YouTube CMS / ZenDesk / ScheduAll / Subtitle Edit
+● London Academy of IT (2017): Responsive design and General Assembly (2018):
+Introduction to UX Design
+● French - Native; English - Fluent; Spanish - Advanced
 
 
 #### Collaborative/Communication skills
@@ -25,7 +32,6 @@ I am currently looking for opportunities in Product Management.
 
 Proficient in the use of various tech stacks and languages taught at Makers Academy, a 12-week computer programming bootcamp.
 Below are a few of the projects I have worked on/been involved in throughout and after the course:
-
 
 **At Makers Academy**
 
@@ -46,15 +52,13 @@ Rock-Paper-Scissors| Makers Academy weekend challenge based on the Rock-Paper-Sc
 Coordination of all non-US video operations on both Vevo & YouTube
 platforms:
 
-- Reception, quality assurance and management of source files & metadata:
-ingestion of various content upon manual upload requests including both Vevo original content and that of external content providers. Management of split rights & territories attribution data (YouTube CMS)
  - Product and Engineering:
 Reporting to & liaising with Engineering Department to eradicate errors quickly so as to comply with delivery deadlines (e.g. troubleshooting on encoding issues, syndication, APIs, CMS functionalities...)
 Liaising with Product Manager on sprint planning efforts and product roadmaps
  - Partnership management:
 Technical support and scheduling face to face meetings with content partners to maintain or establish business relationships
-
-
+- Reception, quality assurance and management of source files & metadata:
+ingestion of various content upon manual upload requests including both Vevo original content and that of external content providers. Management of split rights & territories attribution data (YouTube CMS)
 
 
 **Vubiquity** (Aug 2012 - Nov 2014)   
@@ -104,7 +108,6 @@ First Year of Master's Degree in Media Studies (Film and Television) (EU Erasmus
 In conjunction with coding, I also cultivate a growing interest in the below:
 
 - UX/Design - (General Assembly short bootcamp course)
-- Product management
 - I also try to explore programming languages that are new to me whenever possible
 
 
