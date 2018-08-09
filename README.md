@@ -4,7 +4,7 @@
 
 
 I have taken on various jobs in media and digital services before applying to Makers Academy as my next career move.
-Graduating from a web development bootcamp has been a great asset in my understanding of product/web development; I am currently looking for opportunities in Product Management.
+Graduating from a web development bootcamp has been a great asset in my understanding of product/web development; I am now working part time as a product manager for EngineerBetter, Cloud Foundry specialists.
 
 
 <a name="skills"></a>
