@@ -1,4 +1,6 @@
--># Eva Dinckel<-
+<p align="center">
+  # Eva Dinckel
+</p>
 
 [Skills](#skills)  |  [Work Experience](#work_experience) |  [Education](#education)  |  [Other interests](#interests)  |  [Hobbies](#hobbies)
 
