@@ -112,6 +112,6 @@ In conjunction with coding, I also cultivate a growing interest in the below:
 
 <a name="hobbies"></a>
 ### Hobbies
-Vegan junk food</br>
-Yoga <3</br>
-Languages, all forms of Art, travel...
+Vegan junk food :pizza:</br>
+Yoga :heart: :pray:</br>
+Languages, all forms of Art, travel :plane:
