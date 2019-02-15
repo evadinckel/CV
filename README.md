@@ -113,6 +113,6 @@ In conjunction with coding, I also cultivate a growing interest in the below:
 <a name="hobbies"></a>
 ### Hobbies
 Travel :airplane:, Languages, all forms of Art</br>
-Veggie food :pizza:</br>
+Veggie/Vegan food :pizza: ::stew:</br>
 Yoga :heart: :pray:</br>
 
